@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www":{"guestpath":"/var/www","hostpath":"C:/Users/Jamada/FullStack-Joseph/assignments/Earth_Source/www","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Jamada/FullStack-Joseph/assignments/Earth_Source","disabled":false,"__vagrantfile":true}}}
